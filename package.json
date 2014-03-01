@@ -1,0 +1,24 @@
+{
+  "name": "fez-example",
+  "version": "1.0.0",
+  "description": "Fez build tool use example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LuisMDeveloper/fez-example"
+  },
+  "keywords": [
+    "fez",
+    "build",
+    "tool",
+    "example"
+  ],
+  "author": "Luis Manuel Ramirez Vargas <luis.manuel.ramirez.91@gmail.com>",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/LuisMDeveloper/fez-example/issues"
+  }
+}
