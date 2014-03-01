@@ -20,5 +20,8 @@
   "license": "BSD",
   "bugs": {
     "url": "https://github.com/LuisMDeveloper/fez-example/issues"
+  },
+  "devDependencies": {
+    "fez": "~1.0.8"
   }
 }
